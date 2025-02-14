@@ -3,6 +3,7 @@ int main (){
 	int D, d, c, r;
 	printf("ALGORÍTMO DE EUCLIDES \n Introduzca dos números: \n");
 	scanf("%d", &D);
+	scanf("%d", &d);
 	c = D/d;
 	r = D%d;
 	while(r != 0){
