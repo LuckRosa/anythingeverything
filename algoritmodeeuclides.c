@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main (){
-	int D, d, c, r;
+	int D, Dorig, d, dorig, c, r;
 	printf("ALGORÍTMO DE EUCLIDES \n Introduzca dos números: \n");
 	scanf("%d", &D);
 	scanf("%d", &d);
